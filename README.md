@@ -6,6 +6,16 @@
 | --- | --- |
 | [API Test Automation with Bruno](https://github.com/testsmith-io/api-test-automation-bruno) | [![API Test Automation with Bruno](https://github.com/testsmith-io/api-test-automation-bruno/actions/workflows/bruno.yml/badge.svg)](https://github.com/testsmith-io/api-test-automation-bruno/actions/workflows/bruno.yml) |
 
+# INGenious
+
+| Repo | Badge |
+| --- | --- |
+| [API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio) | [![API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml) |
+
+
+[![API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml)
+
+
 # Postman
 
 | Repo | Badge |
