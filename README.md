@@ -12,10 +12,6 @@
 | --- | --- |
 | [API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio) | [![API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml) |
 
-
-[![API Test Automation with INGenious Playwright Studio](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/testsmith-io/api-test-automation-ingenious-playwright-studio/actions/workflows/pipeline.yaml)
-
-
 # Postman
 
 | Repo | Badge |
